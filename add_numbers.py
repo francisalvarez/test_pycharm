@@ -9,3 +9,9 @@ def sub_nums(*args):
     for num in args:
         s -= num
     return s
+
+def mult_nums(*args):
+    s = 0
+    for num in args:
+        s -= num
+    return s
