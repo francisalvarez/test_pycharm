@@ -9,3 +9,5 @@ def sub_nums(*args):
     for num in args:
         s -= num
     return s
+
+print("New Changes")
